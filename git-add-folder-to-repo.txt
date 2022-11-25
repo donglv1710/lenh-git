@@ -1,1 +1,3 @@
-git remote add origin https://github.com/donglv1710/lenh-git.git
+git remote add origin https://github.com/donglv1710/lenh-git.git 
+git pull  (lay nhung thay doi)
+git fetch (lay source code)
